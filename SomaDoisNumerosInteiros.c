@@ -1,5 +1,3 @@
-# Atividade_GCS
-Contato inicial com Github, um gerenciador de projetos.
 #include<stdio.h>
 int main(){
     int num1, num2, soma;
